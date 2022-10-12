@@ -3,13 +3,13 @@ using namespace std;
 int main() {
   int selection;
 
-  int radius;
-  int pi;
+  double radius;
+  double pi;
   pi = 3.14159;
-  int length;
-  int width;
-  int base;
-  int height;
+  double length;
+  double width;
+  double base;
+  double height;
 
   cout << "Which formula do you want to see?\n\n";
   cout << "1. Area of a circle\n";
